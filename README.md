@@ -1,6 +1,7 @@
 # The Fast Memorize / form 
 ```
-Hello, nice to meet you and I hope these very goods, Welcome to my project, here you can see some images related to the project 😁
+Hello, nice to meet you and I hope these very goods, Welcome to my project, 
+here you can see some images related to the project 😁
 ```
 
 ## [--> **Page** 🔗](https://thefastmemorize.netlify.app/) 
